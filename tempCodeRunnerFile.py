@@ -1,0 +1,1 @@
+    if(board['D1'] == 'O' and board['D2'] == 'O' and board['D3'] == 'O' ):
